@@ -1,0 +1,9 @@
+vpn:
+  peer_owner_id: 123456509
+  peer_vpc_id: vpc-1124332c
+  destination_cidr_block: 10.200.0.0/16
+vpn_cidrs: [10.200.0.0/16, 10.159.192.0/18]
+tags:
+  ETMTagsApplied: true 
+# AWS VPN
+transit_gateway_id: "tgw-somenumber"
